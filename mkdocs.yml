@@ -1,0 +1,21 @@
+site_name: Shanhong (Olivia) Liu
+site_url: https://shanhong-liu.github.io
+
+theme:
+  name: material
+  language: en
+  palette:
+    primary: white
+  favicon: assets/favicon/favicon.ico
+  features:
+    - navigation.tabs
+    - navigation.tabs
+  
+   
+
+nav:
+  - Home: index.md
+  - Info: info.md
+
+
+copyright: copyright &copy; 2023 Shanhong Liu 
